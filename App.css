@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  text-align: center;
+}
+.header {
+  color: white;
+  background: blue;
+  width: 100vw;
+}
+
+.empElements {
+  margin-top: 1rem;
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+}
